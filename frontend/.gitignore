@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+# Ignore backend env file
+backend/.env
+
+
 # production
 /build
 
