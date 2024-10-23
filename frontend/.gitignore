@@ -11,6 +11,7 @@
 # Ignore backend env file
 backend/.env
 
+.env
 
 # production
 /build
